@@ -11,7 +11,7 @@ I am a computer science major at CSUF and I am planning on graduating in 2028.
 
 * Lab 5, Part 1 
 
-    During the lab, I enjoyed seeing my program take user input and turn it into a real result. Printing the final answer makes the work feel rewarding because I can immediately see if I did everything correctly. Even small successes, like getting the right output, make me feel more confident. 
+    During this lab, I enjoyed seeing my program take user input and turn it into a real result. Printing the final answer was satisfying because I could immediately see if everything was working the way I expected. Additionally, practicing how to implement multiple functions in a program was beneficial for me as it helped me understand how to break future programs into smaller, easier steps. Working with user input taught me how important it is to handle data carefully so the program doesn’t behave unexpectedly. Translating a long formula into code showed me how programming can solve problems that would be tedious to do by hand.
 
 * Lab 7, Part 1
 
